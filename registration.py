@@ -9,7 +9,7 @@ class User:
         return new_user
 
     def login(self):
-        # logIN with the new user
+        # logIn with the new user
      pass
 
      
